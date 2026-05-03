@@ -9,7 +9,7 @@ Computer Science & Engineering Graduate | Full Stack Developer | Machine Learnin
 
 ## About Me
 
-I am a Computer Science and Engineering graduate from BGC Trust University with an interest in building practical, real-world applications using technology.
+I am a Computer Science and Engineering graduate from BGC Trust University Bangladesh with an interest in building practical, real-world applications using technology.
 My main focus is to grow as a Machine Learning Engineer, working on data-driven systems that go from idea to working solutions.
 Alongside machine learning, I have worked on full-stack web development projects, which helped me understand how to build complete applications with both frontend and backend components.
 
