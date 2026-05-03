@@ -6,42 +6,31 @@ Computer Science & Engineering Graduate | Full Stack Developer | Machine Learnin
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast;Full+Stack+Developer;Computer+Science+and+Engineering+Graduate" />
 </p>
+
 ## About Me
 
-I am a Computer Science and Engineering graduate from BGC Trust University with a strong interest in Machine Learning and Software Development.
+I am a Computer Science and Engineering graduate from BGC Trust University with an interest in building practical, real-world applications using technology.
+My main focus is to grow as a Machine Learning Engineer, working on data-driven systems that go from idea to working solutions.
+Alongside machine learning, I have worked on full-stack web development projects, which helped me understand how to build complete applications with both frontend and backend components.
 
-My primary career goal is to become a Machine Learning Engineer, focusing on building intelligent and data-driven systems that solve real-world problems.
+## Machine Learning
 
-Alongside Machine Learning, I also have practical experience in Full Stack Web Development, which allows me to develop complete end-to-end applications by integrating frontend, backend, and database systems.
+- Strong understanding of supervised and unsupervised learning concepts  
+- Experience applying machine learning models to practical problems  
+- Familiar with model evaluation and basic optimization techniques  
+- Currently learning deep learning and model deployment fundamentals 
 
-I have strengthened my Machine Learning foundation through the Machine Learning Specialization by Andrew Ng on Coursera.
+## Full-Stack Development
 
-
-
-## Machine Learning Focus
-
-- Completed Machine Learning Specialization by Andrew Ng  
-  Machine Learning Specialization (Coursera)
-- Built multiple Machine Learning projects
-- Strong understanding of supervised and unsupervised learning concepts
-- Experience in applying machine learning models to practical problems
-- Interested in model evaluation, optimization, and deployment
-
-
-
-## Full Stack Development Experience
-
-- Developed full stack web applications as university semester projects
-- Worked with frontend technologies: HTML, CSS, JavaScript, Bootstrap
-- Built backend systems using PHP and MySQL
-- Implemented database-driven applications with authentication and CRUD operations
-- Able to connect frontend systems with backend logic and databases
-
-
+- Built full-stack web applications as part of university projects  
+- Worked with HTML, CSS, JavaScript, and Bootstrap for frontend development  
+- Used PHP and MySQL for backend logic and database management  
+- Implemented features like authentication, CRUD operations, and dynamic content handling  
+- Comfortable connecting frontend interfaces with backend systems  
 
 ## Current Focus
 
-- Advancing knowledge in Machine Learning and Deep Learning
-- Building end-to-end machine learning projects
-- Learning model deployment and production-level ML systems
-- Improving problem-solving skills using Python and data structures
+- Improving skills in machine learning and deep learning  
+- Working on end-to-end ML projects  
+- Learning how to deploy ML models in real environments  
+- Strengthening problem-solving skills using Python and data structures
