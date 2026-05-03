@@ -34,3 +34,53 @@ Alongside machine learning, I have worked on full-stack web development projects
 - Working on end-to-end ML projects  
 - Learning how to deploy ML models in real environments  
 - Strengthening problem-solving skills using Python and data structures
+
+## Machine Learning Skills
+
+- Machine Learning: Supervised Learning, Unsupervised Learning  
+- Model Development: Regression, Classification, Clustering  
+- Model Evaluation: Accuracy, Precision, Recall, F1-score  
+- Basic understanding of Neural Networks and Deep Learning concepts  
+- Experience working with real-world datasets in academic projects
+
+## Full Stack Development Skills
+
+- Frontend Development: HTML, CSS, JavaScript, Bootstrap  
+- Backend Development: PHP  
+- Database Management: MySQL  
+- CRUD operations and authentication systems  
+- Building responsive and dynamic web applications
+
+## Projects
+
+### Machine Learning Projects
+- Developed machine learning models as part of academic learning and practice  
+- Worked on classification and prediction-based problems using structured datasets  
+- Focused on improving model accuracy through feature understanding and tuning  
+
+### Full Stack Web Projects
+- Built 2 full-stack web applications as university semester projects  
+- Developed frontend interfaces using HTML, CSS, JavaScript, and Bootstrap  
+- Implemented backend logic using PHP with MySQL database integration  
+- Included authentication systems, CRUD operations, and dynamic data handling
+
+## Tools & Technologies
+
+- Programming Languages: Python, C, Java  
+- Web Technologies: HTML, CSS, JavaScript, Bootstrap, PHP  
+- Database: MySQL  
+- Concepts: Machine Learning, Data Structures, Algorithms
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+## Contact
+
+- Email: imtiashossain940@gmail.com  
