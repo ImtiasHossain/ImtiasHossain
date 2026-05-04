@@ -74,14 +74,14 @@ Alongside machine learning, I have worked on full-stack web development projects
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImtiasHossain&show_icons=true&hide_border=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiasHossain&layout=compact&hide_border=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImtiasHossain&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiasHossain&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImtiasHossain&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImtiasHossain&hide_border=true&theme=tokyonight" />
 </p>
 
 ## Contact
 
-- Email: imtiashossain940@gmail.com  
+- Email: imtias.rahin@gmail.com  
