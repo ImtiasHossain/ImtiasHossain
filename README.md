@@ -25,7 +25,7 @@ Alongside machine learning, I have worked on full-stack web development projects
 - Built full-stack web applications as part of university projects  
 - Worked with HTML, CSS, JavaScript, and Bootstrap for frontend development 
 - Used PHP and MySQL for backend logic and database management  
-- Implemented features like authentication, CRUD operations, and dynamic content handling  
+- Implemented features like authentication, CRUD operations and dynamic content handling  
 - Comfortable connecting frontend interfaces with backend systems  
 
 ## Current Focus
@@ -54,15 +54,15 @@ Alongside machine learning, I have worked on full-stack web development projects
 ## Projects
 
 ### Machine Learning Projects
-- Developed machine learning models as part of academic learning and practice  
+- Developed machine learning models as part of academic learning and practice
 - Worked on classification and prediction-based problems using structured datasets  
 - Focused on improving model accuracy through feature understanding and tuning  
 
 ### Full Stack Web Projects
-- Built 2 full-stack web applications as university semester projects  
-- Developed frontend interfaces using HTML, CSS, JavaScript, and Bootstrap  
+- Built several full-stack web applications as university semester projects  
+- Developed frontend interfaces using HTML, CSS, JavaScript and Bootstrap  
 - Implemented backend logic using PHP with MySQL database integration  
-- Included authentication systems, CRUD operations, and dynamic data handling
+- Included authentication systems, CRUD operations and dynamic data handling
 
 ## Tools & Technologies
 
