@@ -74,9 +74,9 @@ Alongside machine learning, I have worked on full-stack web development projects
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImtiasHossain&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiasHossain&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImtiasHossain&theme=tokyonight&hide_border=true" />
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=ImtiasHossain&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImtiasHossain&hide_border=true&theme=tokyonight" />
